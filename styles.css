@@ -1,13 +1,8 @@
-/*  your css code here. If applicable */
-body{
-	background : #cccccc
-}
 .player_one{
 	border:1px solid black;
 	background:white;
 	padding:2%;
 }
-
 .player_two{
 	height:450px;
     margin-left:20%;
